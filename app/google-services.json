@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154688641308",
+    "project_id": "autenticador-1bd21",
+    "storage_bucket": "autenticador-1bd21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154688641308:android:580bc4696f477c003102d9",
+        "android_client_info": {
+          "package_name": "com.example.autenticador"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154688641308-olrhcsdha3dr9ncikcijbd4bva6njsu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtoVKjMuA4IwmuQqfQFCs2vzu9G_ANiFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154688641308-olrhcsdha3dr9ncikcijbd4bva6njsu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
